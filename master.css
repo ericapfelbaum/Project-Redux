@@ -1,0 +1,18 @@
+.jumbotron{
+  background-image: url('images/lion.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+ body{
+  background-image:
+  url("images/websitebackground.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#space {
+  height: 450px;
+}
