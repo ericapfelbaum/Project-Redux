@@ -1,5 +1,5 @@
 .jumbotron{
-  background-image: url('images/lion.jpg');
+  background-image: url('images/wallpaper.jpg');
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -8,11 +8,15 @@
 
  body{
   background-image:
-  url("images/websitebackground.jpg");
+  url("images/backgroundimg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 #space {
   height: 450px;
+}
+
+#spacesmall {
+  height: 10px;
 }
